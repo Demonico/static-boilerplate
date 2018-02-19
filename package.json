@@ -1,0 +1,16 @@
+{
+  "name": "static-boilerplate",
+  "version": "1.0.0",
+  "description": "boilerplate code for static HTML site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jarrod Van Doren",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0"
+  },
+  "devDependencies": {}
+}
